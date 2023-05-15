@@ -32,10 +32,9 @@ Estou trabalhando em alguns projetos pessoais relacionados à área de tecnologi
 
 Se você tiver alguma pergunta ou desejar entrar em contato comigo, fique à vontade para me enviar uma mensagem pelo GitHub ou por meio dos meus dados de contato listados abaixo:
 
-- Email: [g.castagna.h@gmail.com](mailto:g.castagna.h@gmail.com)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- LinkedIn: [GabrielCastagna](https://www.linkedin.com/in/seunome)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.castagna.h@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seunome)
 
 Estou aberto a oportunidades de colaboração e sempre em busca de novos desafios e aprendizado na área de tecnologia.
 
