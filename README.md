@@ -1,10 +1,9 @@
 ### Hi there, I'm Gabriel Castagna! 👋
-
+[![card](https://github-readme-stats.vercel.app/api?username=castagnagh&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 # About Me
-
+ ## Occupation
 <div>
   <p style="float: left; width: 50%;">
-    ## Occupation
     Currently, I'm serving in the military and studying Information Systems at Universidade Franciscana (UFN).
   </p>
   <img src="./storage/gifocupacao.gif" alt="Occupation GIF" style="float: right; width: 30%;">
