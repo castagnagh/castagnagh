@@ -1,13 +1,16 @@
-### Hi there, I'm Gabriel Castagna 👋
+### Hi there, I'm Gabriel Castagna! 👋
 
-# Sobre mim
+# About Me
 
-## Ocupação
-Atualmente, sou militar e estudante de Sistemas de Informação na Universidade Franciscana (UFN).
+![Occupation GIF](./storage/gifocupacao.gif)
 
-## Experiência e Conhecimentos
+## Occupation
 
-### Liguagens
+Currently, I'm serving in the military and studying Information Systems at Universidade Franciscana (UFN).
+
+## Experience and Skills
+
+### Languages
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,32 +20,30 @@ Atualmente, sou militar e estudante de Sistemas de Informação na Universidade 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Frameworks e Bibliotecas
+### Frameworks and Libraries
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-- **Bootstrap**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Banco de Dados
+### Database
 
-- **SQL**
-- **MySql**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Outras habilidades
+## Other Skills
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- **Desenvolvimento Ágil**
-- **Resolução de problemas**
+- **Agile Development**
+- **Problem Solving**
 
-## Projetos pessoais
+## Personal Projects
 
-Futuramente estarei criando meus repositórios com projetos pessois e de aprendizagem!
+I'll be creating my personal and learning projects in the future!
 
-## Contato
+## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.castagna.h@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.castagna.h@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castagna-b50891241)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-castagna-b50891241)
-
-Estou aberto a oportunidades de colaboração e sempre em busca de novos desafios e aprendizado na área de tecnologia.
+I'm open to collaboration opportunities and always seeking new challenges and learning in the field of technology.
 
 ![Snake animation](https://github.com/castagnagh/castagnagh/blob/output/github-contribution-grid-snake.svg)
