@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabriel Castagna! 👋
-[![card](https://github-readme-stats.vercel.app/api?username=castagnagh&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=castagnagh&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![castagnagh](https://github-readme-stats.vercel.app/api/top-langs/?username=castagnagh&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 # About Me
  ## Occupation
 <div>
