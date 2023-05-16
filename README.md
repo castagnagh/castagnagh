@@ -2,11 +2,14 @@
 
 # About Me
 
-![Occupation GIF](./storage/gifocupacao.gif)
+<div>
+  <p style="float: left; width: 50%;">
+    ## Occupation
+    Currently, I'm serving in the military and studying Information Systems at Universidade Franciscana (UFN).
+  </p>
+  <img src="./storage/gifocupacao.gif" alt="Occupation GIF" style="float: right; width: 30%;">
+</div>
 
-## Occupation
-
-Currently, I'm serving in the military and studying Information Systems at Universidade Franciscana (UFN).
 
 ## Experience and Skills
 
